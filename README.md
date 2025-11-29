@@ -1,20 +1,15 @@
-# About Me
+# 🌟 About Me
 
-**Name:**  
-Rhealiza Rose T. Mendez
+Hi! I’m **Rhealiza Rose T. Mendez**, a BSIT student at **New Era University** passionate about technology, creativity, and teamwork.  
 
-**Education:**  
-New Era University
+**🎓 Education:**  
+BSIT, New Era University  
 
-**Certifications:**  
-https://courses.cognitiveclass.ai/certificates/cda65287806d432f8f10189329c2ddaa
+**🏆 Certification:**  
+[View SQL & Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/cda65287806d432f8f10189329c2ddaa)  
 
+**💡 Skills & Strengths:**  
+`HTML & CSS` ‖ `Canva & Figma` ‖ `Communication` ‖ `Team Collaboration` ‖ `Problem Solving` ‖ `Adaptability` ‖ `Time Management`  
 
-**Skillsets:**  
-- Basic HTML & CSS  
-- Basic Canva and Figma  
-- Communication Skills  
-- Team Collaboration  
-- Problem Solving  
-- Adaptability  
-- Time Management  
+✨ Always learning, growing, and collaborating on meaningful projects.
+
