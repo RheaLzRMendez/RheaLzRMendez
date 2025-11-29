@@ -1,7 +1,7 @@
 # About Me
 
 **Name:**  
-Your Name
+Rhealiza Rose T. Mendez
 
 **Education:**  
 New Era University
