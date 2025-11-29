@@ -1,16 +1,19 @@
-## Hi there 👋
+# About Me
 
-<!--
-**RheaLzRMendez/RheaLzRMendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Name:**  
+Your Name
 
-Here are some ideas to get you started:
+**Education:**  
+New Era University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Certifications:**  
+(You will add your SQL certificate link later)
+
+**Skillsets:**  
+- Basic HTML & CSS  
+- Basic Canva and Figma  
+- Communication Skills  
+- Team Collaboration  
+- Problem Solving  
+- Adaptability  
+- Time Management  
