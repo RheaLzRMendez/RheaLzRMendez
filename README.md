@@ -1,6 +1,6 @@
-# 🌟 About Me
-
 Hi! I’m **Rhealiza Rose T. Mendez**, a BSIT student at **New Era University**, passionate about technology, creativity, and teamwork.  
+
+# 🌟 About Me
 
 ---
 
