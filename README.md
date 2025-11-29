@@ -4,7 +4,7 @@
 ---
 
 ## 🎓 Education  
-**New Era University**  
+[New Era University](https://www.neu.edu.ph/main/)  
 - Bachelor of Science in Information Technology (2024)  
 
 ---
