@@ -7,7 +7,8 @@ Rhealiza Rose T. Mendez
 New Era University
 
 **Certifications:**  
-(You will add your SQL certificate link later)
+https://courses.cognitiveclass.ai/certificates/cda65287806d432f8f10189329c2ddaa
+
 
 **Skillsets:**  
 - Basic HTML & CSS  
