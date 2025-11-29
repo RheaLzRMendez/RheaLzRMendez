@@ -1,7 +1,7 @@
 # 🌟 Hi! I’m Rhealiza Rose T. Mendez  
 *BSIT Student | Aspiring Web & UX Designer | Tech Enthusiast*
 
--
+--
 
 ## 🎓 Education  
 [New Era University](https://www.neu.edu.ph/main/)  
