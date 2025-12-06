@@ -8,7 +8,8 @@
 
 
 ## 🏆 Certification  
-- [View SQL & Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/cda65287806d432f8f10189329c2ddaa)  
+- [View SQL & Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/cda65287806d432f8f10189329c2ddaa)
+- [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=65578D1402E37F12597B502A403762ECEAFF32A77C5DD9173E7A12527861FEAF)
 
 
 ## 💡 Skillsets  
