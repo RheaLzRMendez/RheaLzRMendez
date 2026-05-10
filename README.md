@@ -1,14 +1,11 @@
-<p align="center">
-  <img src="https://neu.edu.ph/main/assets/images/webp/neulogo.webp" alt="NEU Logo" width="120"/>
-</p>
-
-<h1 align="center">🌟 Hi! I’m Rhealiza Rose T. Mendez 🌟</h1>  
-<p align="center">BSIT Student | Aspiring Web & UX Designer | Tech Enthusiast</p>  
+# 🌟 Hi! I’m Rhealiza Rose T. Mendez  
+BSIT Student | Aspiring Web & UX Designer | Tech Enthusiast  
 
 ---
 
 ## 🎓 Education  
-🎓 **New Era University**  
+**New Era University**  
+<img src="https://neu.edu.ph/main/assets/images/webp/neulogo.webp" alt="NEU Logo" width="80" align="left"/>  
 📚 Bachelor of Science in Information Technology (2024 - Present)  
 
 ---
@@ -52,31 +49,3 @@
 - 📧 **Email 1:** [eyamendez18june@gmail.com](mailto:eyamendez18june@gmail.com)  
 - 📧 **Email 2:** [mendeziza183@gmail.com](mailto:mendeziza183@gmail.com)  
 - 📱 **Mobile:** [09086927320](tel:09086927320)  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RheaLzRMendez&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RheaLzRMendez&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RheaLzRMendez&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 🎀 Fun Badges  
-![Profile Views](https://komarev.com/ghpvc/?username=RheaLzRMendez&color=ff69b4&style=for-the-badge)  
-![Followers](https://img.shields.io/github/followers/RheaLzRMendez?style=for-the-badge&color=purple)  
-![Stars](https://img.shields.io/github/stars/RheaLzRMendez?style=for-the-badge&color=yellow)  
-
----
-
-<p align="center">
-  🐾 Meow! Cats + Code = Happiness 🐾  
-</p>
