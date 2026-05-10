@@ -1,7 +1,5 @@
 <p align="center">
-  ✨🌟✨  
-  <img src="profile.jpg" alt="Rhealiza Rose T. Mendez" width="200" style="border-radius:50%">  
-  ✨🌟✨
+  <img src="https://neu.edu.ph/main/assets/images/webp/neulogo.webp" alt="NEU Logo" width="120"/>
 </p>
 
 <h1 align="center">🌟 Hi! I’m Rhealiza Rose T. Mendez 🌟</h1>  
@@ -24,23 +22,24 @@
 ---
 
 ## 💡 Skillsets  
-🌐 Basic HTML & CSS  
-🎨 Basic Canva & Figma  
-🗣 Communication Skills  
-🤝 Team Collaboration  
-🧩 Problem Solving  
-🔄 Adaptability  
-⏱ Time Management  
-🐍 Beginner Python  
+- 🌐 Basic HTML & CSS  
+- 🎨 Basic Canva & Figma  
+- 🗣 Communication Skills  
+- 🤝 Team Collaboration  
+- 🧩 Problem Solving  
+- 🔄 Adaptability  
+- ⏱ Time Management  
+- 🐍 Beginner Python  
 
 ---
 
 ## 🎯 Hobbies & Interests  
-🎬 Editing films and creating video content  
-🖌 Graphic and digital design  
-💻 Learning new technologies and software  
-🖥 Exploring UI/UX design  
-📚 Reading and self-development  
+- 🎬 Editing films and creating video content  
+- 🖌 Graphic and digital design  
+- 💻 Learning new technologies and software  
+- 🖥 Exploring UI/UX design  
+- 📚 Reading and self-development  
+- 🐱 Playing with cats (because cats make everything better!)  
 
 ---
 
@@ -75,3 +74,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=RheaLzRMendez&color=ff69b4&style=for-the-badge)  
 ![Followers](https://img.shields.io/github/followers/RheaLzRMendez?style=for-the-badge&color=purple)  
 ![Stars](https://img.shields.io/github/stars/RheaLzRMendez?style=for-the-badge&color=yellow)  
+
+---
+
+<p align="center">
+  🐾 Meow! Cats + Code = Happiness 🐾  
+</p>
