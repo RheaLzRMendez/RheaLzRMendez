@@ -1,15 +1,17 @@
 <p align="center">
-  <img src="profile.jpg" alt="Rhealiza Rose T. Mendez" width="200" style="border-radius:50%">
+  ✨🌟✨  
+  <img src="profile.jpg" alt="Rhealiza Rose T. Mendez" width="200" style="border-radius:50%">  
+  ✨🌟✨
 </p>
 
-# 🌟 Hi! I’m Rhealiza Rose T. Mendez  
-✨ BSIT Student | Aspiring Web & UX Designer | Tech Enthusiast ✨  
+<h1 align="center">🌟 Hi! I’m Rhealiza Rose T. Mendez 🌟</h1>  
+<p align="center">BSIT Student | Aspiring Web & UX Designer | Tech Enthusiast</p>  
 
 ---
 
 ## 🎓 Education  
-**New Era University**  
-Bachelor of Science in Information Technology (2024 - Present)  
+🎓 **New Era University**  
+📚 Bachelor of Science in Information Technology (2024 - Present)  
 
 ---
 
@@ -22,27 +24,27 @@ Bachelor of Science in Information Technology (2024 - Present)
 ---
 
 ## 💡 Skillsets  
-- 🌐 Basic HTML & CSS  
-- 🎨 Basic Canva & Figma  
-- 🗣 Communication Skills  
-- 🤝 Team Collaboration  
-- 🧩 Problem Solving  
-- 🔄 Adaptability  
-- ⏱ Time Management  
-- 🐍 Beginner Python  
+🌐 Basic HTML & CSS  
+🎨 Basic Canva & Figma  
+🗣 Communication Skills  
+🤝 Team Collaboration  
+🧩 Problem Solving  
+🔄 Adaptability  
+⏱ Time Management  
+🐍 Beginner Python  
 
 ---
 
 ## 🎯 Hobbies & Interests  
-- 🎬 Editing films and creating video content  
-- 🖌 Graphic and digital design  
-- 💻 Learning new technologies and software  
-- 🖥 Exploring UI/UX design  
-- 📚 Reading and self-development  
+🎬 Editing films and creating video content  
+🖌 Graphic and digital design  
+💻 Learning new technologies and software  
+🖥 Exploring UI/UX design  
+📚 Reading and self-development  
 
 ---
 
-✨ Driven by curiosity, creativity, and a passion for continuous growth in technology and design.  
+✨ *Driven by curiosity, creativity, and a passion for continuous growth in technology and design.* ✨  
 
 ---
 
