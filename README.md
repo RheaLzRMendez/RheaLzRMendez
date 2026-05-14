@@ -20,7 +20,7 @@ I am Rhealiza Rose T. Mendez, a Bachelor of Science in Information Technology st
 
 ## 🏆 Certifications
 
-* [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/b8a137c8685a4602a265aa47ec24e5a0)
+* [View SQL & Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/b8a137c8685a4602a265aa47ec24e5a0)
 * [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://www.oracle.com/cloud/)
 * [Oracle Cloud Infrastructure Certified Badge](https://www.oracle.com/cloud/)
 * [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://www.oracle.com/cloud/)
