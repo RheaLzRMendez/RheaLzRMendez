@@ -47,5 +47,8 @@ I am Rhealiza Rose T. Mendez, a Bachelor of Science in Information Technology st
 
 ## 📫 Contact Me
 
-* **LinkedIn:** [Rhealiza Rose T. Mendez](https://linkedin.com/in/rhealiza-rose-t-mendez-57a2b939b)
+## 📫 Contact Me
+
+* **LinkedIn:** [LinkedIn Link of Rhealiza Mendez](https://linkedin.com/in/rhealiza-rose-t-mendez-57a2b939b)
 * **Email:** [eyamendez18june@gmail.com](mailto:eyamendez18june@gmail.com)
+
