@@ -1,51 +1,51 @@
-# 🌟 Hi! I’m Rhealiza Rose T. Mendez  
-BSIT Student | Aspiring Web & UX Designer | Tech Enthusiast  
+# 🌟 Hi! I’m Rhealiza Rose T. Mendez
+
+BSIT Student | Aspiring Web & UX Designer | Tech Enthusiast
 
 ---
 
-## 🎓 Education  
-**New Era University**  
-<img src="https://neu.edu.ph/main/assets/images/webp/neulogo.webp" alt="NEU Logo" width="80" align="left"/>  
-📚 Bachelor of Science in Information Technology (2024 - Present)  
+## 🌟 About Me
+
+I am Rhealiza Rose T. Mendez, a Bachelor of Science in Information Technology student with a passion for coding, web development, and UI/UX design. I enjoy solving problems creatively and continuously learning new technologies to improve my skills in the tech industry.
 
 ---
 
-## 🏆 Certifications  
-- [View SQL & Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/b8a137c8685a4602a265aa47ec24e5a0)  
-- [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://www.oracle.com/cloud/)  
-- [Oracle Cloud Infrastructure Certified Badge](https://www.oracle.com/cloud/)  
-- [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://www.oracle.com/cloud/)  
+## 🎓 Education
+
+**Bachelor of Science in Information Technology**
+**New Era University**
+2024 - Present
 
 ---
 
-## 💡 Skillsets  
-- 🌐 Basic HTML & CSS  
-- 🎨 Basic Canva & Figma  
-- 🗣 Communication Skills  
-- 🤝 Team Collaboration  
-- 🧩 Problem Solving  
-- 🔄 Adaptability  
-- ⏱ Time Management  
-- 🐍 Beginner Python  
+## 🏆 Certifications
+
+* [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/b8a137c8685a4602a265aa47ec24e5a0)
+* [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://www.oracle.com/cloud/)
+* [Oracle Cloud Infrastructure Certified Badge](https://www.oracle.com/cloud/)
+* [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://www.oracle.com/cloud/)
 
 ---
 
-## 🎯 Hobbies & Interests  
-- 🎬 Editing films and creating video content  
-- 🖌 Graphic and digital design  
-- 💻 Learning new technologies and software  
-- 🖥 Exploring UI/UX design  
-- 📚 Reading and self-development  
-- 🐱 Playing with cats (because cats make everything better!)  
+## 💡 Skill Sets
+
+* **Programming:** Python, HTML, CSS
+* **Databases:** IBM DB2 Cloud
+* **Tools:** Canva, Figma, Lucidchart
 
 ---
 
-✨ *Driven by curiosity, creativity, and a passion for continuous growth in technology and design.* ✨  
+## 🎯 Hobbies & Interests
+
+* Editing films and creating video content
+* Graphic and digital design
+* Exploring UI/UX design
+* Learning new technologies
+* Reading and self-development
 
 ---
 
-## 📫 Contact Me  
-- 🔗 **LinkedIn:** [Rhealiza Rose T. Mendez](https://linkedin.com/in/rhealiza-rose-t-mendez-57a2b939b)  
-- 📧 **Email 1:** [eyamendez18june@gmail.com](mailto:eyamendez18june@gmail.com)  
-- 📧 **Email 2:** [mendeziza183@gmail.com](mailto:mendeziza183@gmail.com)  
-- 📱 **Mobile:** [09086927320](tel:09086927320)  
+## 📫 Contact Me
+
+* **LinkedIn:** [Rhealiza Rose T. Mendez](https://linkedin.com/in/rhealiza-rose-t-mendez-57a2b939b)
+* **Email:** [eyamendez18june@gmail.com](mailto:eyamendez18june@gmail.com)
